@@ -6,19 +6,15 @@
 
 I am an Undergrad Engineering Student from India.
 
-- 🔭 Trying my hands on learning more about Blockchain, Google Cloud and Competitive Programming
-- 🌱 I enjoy reading tech articles and newsletters
-- ⚡ Have got an average of 90 wpm 😉
+- 🔭 Trying my hands on learning more about Blockchain, webdev and Competitive Programming
+- 🛠️ Always tinkering with the latest tech tools and gadgets
+- 🌐 Exploring IoT innovations
 - 🎧 A little interested in music I'd say
 ---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/varshaa-shetty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshaa-shetty" height="30" width="40" /></a>
-  <a href="https://twitter.com/shetty_varshaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shetty_varshaa" height="30" width="40" /></a>
-  <a href="https://dev.to/varshaa/apis-101-with-postman-3f1g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="varshaa" height="30" width="40" /></a>
-</div>
+
 <br/>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shettyvarshaa&style=plastic&color=red&label=Views" alt=""></p>
 
@@ -33,4 +29,4 @@ I am an Undergrad Engineering Student from India.
 
 | Stats    |
 | :---: |
-|<a href="https://github.com/shettyvarshaa"><img alt="Varshaa's Stat" src="https://github-readme-stats.vercel.app/api?username=shettyvarshaa&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&show_owner=true" height="190px"/>|
+|<a href="https://github.com/mausooq"><img alt="mausooq's Stat" src="https://github-readme-stats.vercel.app/api?username=mausooq&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&show_owner=true" height="190px"/>|
