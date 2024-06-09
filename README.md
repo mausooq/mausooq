@@ -16,7 +16,7 @@ I am an Undergrad Engineering Student from India.
 </div>
 
 <br/>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=shettyvarshaa&style=plastic&color=red&label=Views" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=mausooq&style=plastic&color=red&label=Views" alt=""></p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/jVTT2q1G1GrUP50XZx/giphy.gif" width="600" height="400"/>
