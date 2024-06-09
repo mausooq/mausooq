@@ -1,11 +1,36 @@
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mausooq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mausooq&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mausooq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey%20There!&height=100&section=header"/>
+</p>
+
+### :woman_technologist: &nbsp;About Me :
+
+I am an Undergrad Engineering Student from India.
+
+- 🔭 Trying my hands on learning more about Blockchain, Google Cloud and Competitive Programming
+- 🌱 I enjoy reading tech articles and newsletters
+- ⚡ Have got an average of 90 wpm 😉
+- 🎧 A little interested in music I'd say
+---
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/varshaa-shetty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshaa-shetty" height="30" width="40" /></a>
+  <a href="https://twitter.com/shetty_varshaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shetty_varshaa" height="30" width="40" /></a>
+  <a href="https://dev.to/varshaa/apis-101-with-postman-3f1g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="varshaa" height="30" width="40" /></a>
+</div>
+<br/>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=shettyvarshaa&style=plastic&color=red&label=Views" alt=""></p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/jVTT2q1G1GrUP50XZx/giphy.gif" width="600" height="400"/>
+</div>
+
+[![An image of @varshaashetty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varshaashetty)](https://holopin.io/@varshaashetty)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mausooq&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🔥 Streak Stats
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Stats    |
+| :---: |
+|<a href="https://github.com/shettyvarshaa"><img alt="Varshaa's Stat" src="https://github-readme-stats.vercel.app/api?username=shettyvarshaa&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&show_owner=true" height="190px"/>|
