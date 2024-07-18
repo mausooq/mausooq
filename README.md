@@ -18,7 +18,7 @@ I am an Undergrad Engineering Student from India.
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jVTT2q1G1GrUP50XZx/giphy.gif" width="600" height="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlyNTFtdXZhcW5hMzhvbnltOGFuNWk5Zm16OXFiZWZzemZlN2VvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7budMRwZvNGJ3pyE/giphy.webp" width="400" height="400"/>
 </div>
 
 
